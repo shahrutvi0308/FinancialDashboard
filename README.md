@@ -6,6 +6,12 @@ An interactive financial dashboard designed to monitor business performance and 
 
 This project presents financial and sales data through key performance indicators (KPIs) and interactive visualisations. It helps users explore business performance over time and compare results across countries.
 
+<img width="1438" height="860" alt="image" src="https://github.com/user-attachments/assets/13b902f6-10ea-4887-99cd-43ecbeccfb77" />
+
+
+<img width="1417" height="858" alt="image" src="https://github.com/user-attachments/assets/bc6985a0-f9a5-465f-8044-b71f4fec01c3" />
+
+
 ## Project Objectives
 
 - Monitor overall sales and profitability.
